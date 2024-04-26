@@ -7,7 +7,12 @@ This project aims to provide a seamless experience for exploring GitHub profiles
 
 
 **Hosted link**
+
 https://biradarrafeek.github.io/HubView/
+
+
+
+
 
 
 _**Hit the Star Button**_
